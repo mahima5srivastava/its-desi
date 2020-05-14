@@ -71,7 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Color Scheme
 
-Name | HEX | RBGA | HSLA
+Name | HEX | RGBA | HSLA
 :---:|:---:|:---:|:---:
 Gulf Blue | #021859 | rgba(1, 23, 89, 1) | hsla(225, 96, 17, 1)
 Cerulean Blue | #2458BF | rgba(36, 87, 191, 1) | hsla(219, 68, 44, 1)
