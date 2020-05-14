@@ -80,5 +80,5 @@ Tango | #F27329 | rgba(242, 114, 41, 1) | hsla(22, 88, 55, 1)
 Grenadier | #D92B04 | rgba(216, 43, 4, 1) | hsla(11, 96, 43, 1)
 
 ### Font
-Import: @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap');
+Import: @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap');<br />
 Use: font-family: 'Montserrat', sans-serif;
